@@ -2,6 +2,41 @@
   text-align: center;
 }
 
+.table-products {
+  margin-top: 50px;
+  border: solid 3px black;
+  padding: 10px;
+  width: 100%;
+}
+
+.table-title {
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.product-line {
+  border: solid 1px black;
+}
+
+.product-example {
+  border: solid 1px black;
+  margin: 0px;
+}
+
+.product-form {
+  padding: 20px;
+  border: 2px solid;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#filled-basic {
+  margin-right: 10px;
+  font-size: 20px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

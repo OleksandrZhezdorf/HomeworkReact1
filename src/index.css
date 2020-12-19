@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://img.freepik.com/free-photo/white-grunge-cement-wall-texture-for-background-and-design-art-work_38607-205.jpg?size=626&ext=jpg");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+
 }
 
 code {
